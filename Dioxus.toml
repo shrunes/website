@@ -15,6 +15,7 @@ asset_dir = "assets"
 
 [web.app]
 
+# Comment this for local testing
 base_path = "website"
 
 # HTML title tag content
