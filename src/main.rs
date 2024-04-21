@@ -55,7 +55,7 @@ fn Home() -> Element {
                 div { class: "p-5",
                     a { 
                         class: LINK_BUTTON_CLASSES,
-                        href: "https://luminex.io/runes/mint",
+                        href: "https://luminex.io/rune/WWW%E2%80%A2SHRUNES%E2%80%A2COM",
                         target: "_blank",
                         "Mint Shrunes on Luminex"
                     }
@@ -71,7 +71,7 @@ fn Home() -> Element {
                 div { class: "p-5",
                     a {
                         class: LINK_BUTTON_CLASSES,
-                        href: "https://unisat.io/runes/market",
+                        href: "https://unisat.io/runes/market?tick=WWW%E2%80%A2SHRUNES%E2%80%A2COM",
                         target: "_blank",
                         "Buy/Sell on Unisat (secondary market)" 
                     }
